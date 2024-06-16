@@ -34,3 +34,9 @@ Positioned at the heart of the system, the microcontroller acts as its cerebral 
   
 ## Getting Started
 Follow the [setup guide](docs/setup-guide.md) to install and configure the system.
+
+## Contributing
+We welcome contributions! Please read our [contributing guidelines](docs/contributing.md) before submitting a pull request.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
