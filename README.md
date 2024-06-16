@@ -33,7 +33,7 @@ Positioned at the heart of the system, the microcontroller acts as its cerebral 
 - **Wiper Motor**: Functions as the wiper of the vehicle.
   
 ## Getting Started
-Follow the [setup guide](docs/setup-guide.md) to install and configure the system.
+Follow the [setup guide](docs/user-manual.md) to install and configure the system.
 
 ## Contributing
 We welcome contributions! Please read our [contributing guidelines](docs/contributing.md) before submitting a pull request.
