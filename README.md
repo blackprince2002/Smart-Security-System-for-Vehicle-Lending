@@ -1,2 +1,3 @@
 # Smart-Security-System-for-Vehicle-Lending
-A sophisticated smart security system designed to protect and manage vehicles in lending scenarios. This system incorporates real-time tracking, remote access control, usage monitoring, and alerts to ensure the safety and proper use of lent vehicles.
+## Overview
+This project is a smart security system aimed at ensuring the safety and proper management of vehicles lent to different users. It integrates cutting-edge technologies to offer real-time tracking, remote control, usage monitoring, and instant security alerts.
