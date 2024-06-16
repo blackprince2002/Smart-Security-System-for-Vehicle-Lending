@@ -40,33 +40,4 @@ We welcome contributions! Please read our [contributing guidelines](docs/contrib
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```plaintext
-smart-security-system-for-vehicle-lending/
-├── README.md
-├── LICENSE
-├── .gitignore
-├── docs/
-│   ├── architecture.md
-│   ├── setup-guide.md
-│   ├── user-manual.md
-│   └── contributing.md
-├── backend/
-│   ├── src/
-│   ├── tests/
-│   └── requirements.txt
-├── frontend/
-│   ├── src/
-│   ├── tests/
-│   └── package.json
-├── mobile-app/
-│   ├── src/
-│   ├── tests/
-│   └── package.json
-├── config/
-│   ├── database-config.yml
-│   ├── server-config.yml
-│   └── app-config.yml
-└── scripts/
-    ├── deploy.sh
-    ├── start.sh
-    └── stop.sh
+
