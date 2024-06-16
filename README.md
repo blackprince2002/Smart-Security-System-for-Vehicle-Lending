@@ -8,8 +8,8 @@ This project is a smart security system aimed at ensuring the safety and proper 
 - **Security Alerts**: Receive instant notifications for any security threats or unauthorized access.
 - **User Authentication**: Ensure only authorized users can access and control the vehicle.
 - **Report Generation**: Generate comprehensive reports for vehicle usage and security events.
-- **Emergency Assistance**: Quick access to emergency services with an SOS feature.
-###How Demonstration Works
+- **Emergency Assistance**: Quick access to emergency services with an SOS feature
+## How Demonstration Works
 ### Microcontroller (Arduino)
 Positioned at the heart of the system, the microcontroller acts as its cerebral cortex. Responsible for processing inputs from various sensors, controlling actuators, monitoring the touchscreen interface, and managing external device communication, it organizes multiple operations of the system.
 
