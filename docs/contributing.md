@@ -16,5 +16,5 @@ Ensure all contributions adhere to our [Code of Conduct](link-to-code-of-conduct
 If you encounter bugs or have suggestions for improvements, please [open an issue](link-to-issue-tracker) on GitHub.
 
 ## Contact
-Reach out to the maintainers at [maintainer-email@example.com] for questions or assistance.
+Reach out to the maintainers at [maintainer-shamodpasindu@gmail.com] for questions or assistance.
 
