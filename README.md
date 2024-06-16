@@ -9,3 +9,5 @@ This project is a smart security system aimed at ensuring the safety and proper 
 - **User Authentication**: Ensure only authorized users can access and control the vehicle.
 - **Report Generation**: Generate comprehensive reports for vehicle usage and security events.
 - **Emergency Assistance**: Quick access to emergency services with an SOS feature.
+## Getting Started
+Follow the [setup guide](docs/setup-guide.md) to install and configure the system.
